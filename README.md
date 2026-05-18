@@ -107,21 +107,8 @@ To run this project locally, you need to have the following software installed:
 6. Open your web browser and visit `http://localhost:3000` to access the Organica application.
 
 
-## Contributing
-
-Contributions are welcome! If you want to contribute to Organica, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature/bug fix.
-3. Make your changes and commit them.
-4. Push your changes to your forked repository.
-5. Submit a pull request to the main repository.
 
 
-## Contact
 
-If you have any questions or suggestions, feel free to contact the project maintainers:
-
-- Vivek Kakadiya - vivek.kakadiya111@gmail.com
 
 
